@@ -110,7 +110,36 @@ This project investigates various cybersecurity forums to analyse the evolving t
 - https://cybernews.com/security/french-records-exposed-by-mysterious-data-hoarder/
 
 
+## Kaspersky defends force-replacing its security software  UltraAV in the US
+#### September 24, 2024
+- https://techcrunch.com/2024/09/26/kaspersky-defends-automatically-force-replacing-its-software-without-users-explicit-consent/
+- https://uk.pcmag.com/antivirus/154477/kaspersky-antivirus-abruptly-replaced-with-ultraav-in-the-us-angering-users
 
+
+## MC2 Data Breach
+#### September 24, 2024
+- https://www.cpomagazine.com/cyber-security/background-check-services-firm-mc2-data-leak-impacts-over-100-million-americans/
+- https://spycloud.com/blog/breaking-down-the-mc2-data-breach/
+- https://www.itpro.com/security/data-breaches/100-million-americans-just-had-their-personal-information-leaked-in-the-massive-mc2-data-breach-and-human-error-could-be-the-cause
+
+
+## Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent
+#### September 24, 2024
+- https://thehackernews.com/2024/09/mozilla-faces-privacy-complaint-for.html
+- https://trustcassie.com/resources/blog/mozilla-faces-privacy-complaint-over-new-firefox-tracking-feature/#:~:text=Mozilla%2C%20the%20non%2Dprofit%20behind,by%20default%20without%20their%20consent.
+
+
+## Dell Database Hacked (GREP)
+#### September 25, 2024
+- https://hackread.com/wp-content/uploads/2024/09/dell-data-leak-in-week-amid-grep-cyberattacks-2-964x1024.jpg
+#### May 10, 2024 (Dell Database Hacked)
+- https://www.forbes.com/sites/daveywinder/2024/05/10/dell-confirms-database-hacked-hacker-says-49-million-customers-hit/
+
+
+## Security vulnerability in OpenAI's ChatGPT app for macOS could have made it possible for attackers to plant long-term persistent spyware.
+#### September 25, 2024
+- https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html
+- https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/
 
 
 
@@ -122,7 +151,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 # Archived
 
 - 2024
-- 2023
+
 
 
 
