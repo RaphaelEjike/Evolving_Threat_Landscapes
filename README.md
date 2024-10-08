@@ -15,7 +15,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 4.	Relevance to Target Organizations: The identified techniques will be assessed for their impact on different types of organizations. This will include an analysis of how trends affect specific industries (e.g., phishing attacks in the financial sector vs. supply chain attacks in the manufacturing sector).
 
 
-# These are the noticeable trends in the last three months
+# These are the noticeable trends in the last six weeks
 
 
 ## Lego's website was hacked to promote a crypto scam
@@ -78,6 +78,12 @@ https://intel471.com/blog/are-telegrams-new-policies-spooking-cybercriminals
 ## Dutch Police data breached
 #### September 27, 2024
 https://www.politie.nl/nieuws/2024/september/27/data.html
+
+# Archived
+
+- 2024
+- 2023
+
 
 
 
