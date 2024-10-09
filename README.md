@@ -132,6 +132,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 ## Dell Database Hacked (GREP)
 #### September 25, 2024
 - https://hackread.com/wp-content/uploads/2024/09/dell-data-leak-in-week-amid-grep-cyberattacks-2-964x1024.jpg
+#### September 22, 2024 (Hackers Claim Second Dell Data Breach)
 #### May 10, 2024 (Dell Database Hacked)
 - https://www.forbes.com/sites/daveywinder/2024/05/10/dell-confirms-database-hacked-hacker-says-49-million-customers-hit/
 
@@ -140,6 +141,66 @@ This project investigates various cybersecurity forums to analyse the evolving t
 #### September 25, 2024
 - https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html
 - https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/
+
+
+## Ukraine Bans Telegram Use for Government and Military Personnel
+#### September 25, 2024
+- https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html
+
+
+## What we know about the Hezbollah device explosions
+#### September 19, 2024
+- https://www.bbc.co.uk/news/articles/cz04m913m49o
+- https://apnews.com/article/lebanon-israel-exploding-pagers-hezbollah-syria-ce6af3c2e6de0a0dddfae48634278288
+- https://edition.cnn.com/2024/09/17/middleeast/lebanon-hezbollah-pagers-explosions-intl/index.html
+- https://x.com/Faytuks/status/1836038889179390199
+
+
+
+## X hacking spree fuels "$HACKED" crypto token pump-and-dump
+#### September 18, 2024
+- https://www.bleepingcomputer.com/news/security/x-hacking-spree-fuels-hacked-crypto-token-pump-and-dump/
+
+
+
+## Temu data breach allegations
+#### September 18, 2024
+- https://www.techradar.com/pro/security/temu-says-it-wasn-t-breached-after-hacker-supposedly-leaks-87-million-strong-database?formCode=MG0AV3
+#### June 27 2024 (Temu "surprised" by the lawsuit, plans to "vigorously defend" itself.)
+- https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/?formCode=MG0AV3
+
+
+
+## Australian Police conducted supply chain attack on criminal collaborationware
+#### September 18, 2024
+- https://www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/
+- https://www.infosecurity-magazine.com/news/europol-disrupts-ghost-criminal/?formCode=MG0AV3
+- https://www.techradar.com/pro/security/cybercriminals-hit-by-australian-authorities-supply-chain-sting?formCode=MG0AV3
+
+
+
+
+
+## Millions of vehicle records left open – with no owner in sight
+#### September 17, 2024
+- https://cybernews.com/security/millions-vehicle-records-left-open/
+August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
+https://www.the961.com/3-million-lebanese-car-owners-database-online/?formCode=MG0AV3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
