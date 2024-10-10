@@ -18,6 +18,57 @@ This project investigates various cybersecurity forums to analyse the evolving t
 # These are the noticeable trends in the last four weeks
 
 
+
+
+
+## Discord Blocked in Russia and Turkey
+#### October 10 2024
+- https://restoreprivacy.com/discord-blocked-in-russia-and-turkey-amid-government-crackdowns/
+- https://www.heise.de/en/news/Discord-blocked-in-Russia-and-Turkey-9975931.html
+- https://www.itgeared.com/what-countries-is-discord-banned-in/
+
+
+## Internet Archive confirms major data breach, 31m users affected
+#### October 10 2024
+- https://www.newsweek.com/catastrophic-internet-archive-hack-hits-31-million-people-1966866
+- https://www.siliconrepublic.com/enterprise/internet-archive-cyber-attack-2024
+- https://www.vanguardngr.com/2024/10/internet-archive-confirms-major-data-breach-31m-users-affected/
+
+
+
+## Ubisoft Sued for Sharing Gaming Data With Meta
+#### October 10 2024
+- https://news.bloomberglaw.com/privacy-and-data-security/ubisoft-shared-gaming-data-with-meta-wiretap-lawsuit-claims
+
+
+
+## National Public Data files for bankruptcy,
+#### October 9 2024
+- https://www.theregister.com/2024/10/09/national_public_data_bankrupt
+#### August 19 2024 (National Public Data admits major data breach of personal information)
+- https://www.techmonitor.ai/technology/cybersecurity/national-public-data-confirms-major-data-breach-of-personal-information
+- https://support.microsoft.com/en-us/topic/national-public-data-breach-what-you-need-to-know-843686f7-06e2-4e91-8a3f-ae30b7213535
+#### August 16 2024 (three class-action lawsuits were filed against National Public Data for permitting hackers to steal data)
+- https://en.wikipedia.org/wiki/2024_National_Public_Data_breach
+
+
+
+## DumpForums Claim 10TB Data Breach at Russian Cybersecurity Firm Dr.Web
+#### October 9 2024
+- https://hackread.com/dumpforums-russian-cybersecurity-firm-dr-web-data-breach/
+#### September 18, 2024 (Russian security firm Dr.Web disconnects all servers after breach)
+- https://www.bleepingcomputer.com/news/security/russian-security-firm-drweb-disconnects-all-servers-after-breach/
+
+
+## American Water Works cyberattack forces company to pause billing
+#### October 08 2024
+- https://cybernews.com/news/american-water-works-cyberattack-pause-billing/
+- https://www.prnewswire.com/news-releases/privacy-alert-american-water-under-investigation-for-cyberattack-and-data-breach-potentially-affecting-14-million-customers-302272815.html
+- https://www.msn.com/en-us/money/companies/water-supplier-american-water-works-says-systems-hacked/ar-AA1rPRzd
+- https://www.cnbc.com/2024/10/08/american-water-largest-us-water-utility-cyberattack.html
+- https://www.cbsnews.com/news/security-hack-breach-american-water-works/
+
+
 ## Lego's website was hacked to promote a crypto scam
 #### October 4 2024
 - https://www.engadget.com/cybersecurity/legos-website-was-hacked-to-promote-a-crypto-scam-140045757.html
@@ -34,6 +85,15 @@ This project investigates various cybersecurity forums to analyse the evolving t
 - https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/
 - https://www.firstpost.com/tech/how-russian-hackers-used-deepfake-nude-generator-sites-to-spread-malware-13822734.html
 - https://www.silentpush.com/blog/fin7-malware-deepfake-ai-honeypot/
+
+
+## Thousands of DrayTek Routers at Risk From 14 Vulnerabilities
+#### October 2 2024
+- https://www.theregister.com/2024/10/02/draytek_routers_bugs/
+- https://www.forescout.com/resources/draybreak-draytek-research/
+- https://www.draytek.com/about/security-advisory/cross-site-scripting,-denial-of-service-and-remote-code-execution-vulnerabilities
+- https://www.darkreading.com/endpoint-security/thousands-draytek-routers-at-risk-14-new-vulnerabilities
+
 
 
 ## Evil Corp cybercriminal gang members sanctioned in major move by UK crime agency
