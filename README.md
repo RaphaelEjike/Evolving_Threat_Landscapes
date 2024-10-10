@@ -166,17 +166,17 @@ This project investigates various cybersecurity forums to analyse the evolving t
 
 ## Temu data breach allegations
 #### September 18, 2024
-- https://www.techradar.com/pro/security/temu-says-it-wasn-t-breached-after-hacker-supposedly-leaks-87-million-strong-database?formCode=MG0AV3
+- https://www.techradar.com/pro/security/temu-says-it-wasn-t-breached-after-hacker-supposedly-leaks-87-million-strong-database
 #### June 27 2024 (Temu "surprised" by the lawsuit, plans to "vigorously defend" itself.)
-- https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/?formCode=MG0AV3
+- https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/
 
 
 
 ## Australian Police conducted supply chain attack on criminal collaborationware
 #### September 18, 2024
 - https://www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/
-- https://www.infosecurity-magazine.com/news/europol-disrupts-ghost-criminal/?formCode=MG0AV3
-- https://www.techradar.com/pro/security/cybercriminals-hit-by-australian-authorities-supply-chain-sting?formCode=MG0AV3
+- https://www.infosecurity-magazine.com/news/europol-disrupts-ghost-criminal/
+- https://www.techradar.com/pro/security/cybercriminals-hit-by-australian-authorities-supply-chain-sting
 
 
 
@@ -184,7 +184,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 #### September 17, 2024
 - https://cybernews.com/security/millions-vehicle-records-left-open/
 August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
-- https://www.the961.com/3-million-lebanese-car-owners-database-online/?formCode=MG0AV3
+- https://www.the961.com/3-million-lebanese-car-owners-database-online/
 
 
 
@@ -193,11 +193,11 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 #### September 16, 2024
 - https://cybernews.com/editorial/pirate-streaming-copyright-crackdown/
 #### March  13, 2024 (Online piracy crackdown results in four UK arrests)
-- https://www.independent.co.uk/tech/piracy-online-streaming-police-laws-b2292223.html?formCode=MG0AV3
+- https://www.independent.co.uk/tech/piracy-online-streaming-police-laws-b2292223.html
 #### May 2 2022 (Every ISP in the US has been ordered to block three pirate streaming services)
-- https://arstechnica.com/tech-policy/2022/05/judge-rules-every-isp-in-us-must-block-pirate-sites-run-by-mysterious-defendants/?formCode=MG0AV3
+- https://arstechnica.com/tech-policy/2022/05/judge-rules-every-isp-in-us-must-block-pirate-sites-run-by-mysterious-defendants/
 #### August 16 2021 (A crackdown on piracy and illegal streaming is coming)
-- https://www.techradar.com/news/a-crackdown-on-piracy-and-illegal-streaming-is-coming?formCode=MG0AV3
+- https://www.techradar.com/news/a-crackdown-on-piracy-and-illegal-streaming-is-coming
 
 
 
@@ -216,9 +216,9 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 
 ## Fortinet confirms breach that likely leaked 440GB of customer data
 #### September 13, 2024
-- https://www.csoonline.com/article/3520517/fortinet-confirms-a-breach-that-likely-leaked-440-gb-of-customer-data.html?formCode=MG0AV3
+- https://www.csoonline.com/article/3520517/fortinet-confirms-a-breach-that-likely-leaked-440-gb-of-customer-data.html
 #### September 12, 2024 (Notice of Recent Security Incident | Fortinet Blog)
-- https://www.fortinet.com/blog/business-and-technology/notice-of-recent-security-incident?formCode=MG0AV3
+- https://www.fortinet.com/blog/business-and-technology/notice-of-recent-security-incident
 
 
 
@@ -226,8 +226,8 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 #### September 9, 2024
 - https://www.bleepingcomputer.com/news/security/meta-fixes-easily-bypassed-whatsapp-view-once-privacy-feature/
 - https://techreport.com/news/meta-promises-fix-whatsapp-view-once-bug/?formCode=MG0AV3
-- https://restoreprivacy.com/whatsapp-flaw-allows-bypassing-the-view-once-media-privacy-feature/?formCode=MG0AV3
-- https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/?formCode=MG0AV3
+- https://restoreprivacy.com/whatsapp-flaw-allows-bypassing-the-view-once-media-privacy-feature/
+- https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/
  
 
 
@@ -240,7 +240,7 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 
 ## Chinese hackers are switching to new malware for government attacks
 #### September 11, 2024
-- https://www.techradar.com/pro/chinese-hackers-are-switching-to-new-malware-for-government-attacks?formCode=MG0AV3
+- https://www.techradar.com/pro/chinese-hackers-are-switching-to-new-malware-for-government-attacks
 #### September 9, 2024 (Chinese hackers use new data theft malware in govt attacks)
 - https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-data-theft-malware-in-govt-attacks/
 
@@ -251,7 +251,7 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 #### September 10, 2024
 - https://hackread.com/man-faces-prison-first-ever-ai-music-streaming-scam/
 - https://www.ibtimes.com/ai-music-streamed-royalty-fraud-3742230
-- https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/?formCode=MG0AV3
+- https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/
 
 
 
@@ -259,10 +259,10 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 
 ## Transport for London doesn't know when it will recover from 'very sophisticated' cyber attack, admits tech chief
 #### September 13, 2024
-https://www.standard.co.uk/news/london/tfl-cyber-attack-oyster-bank-cards-personal-details-transport-for-london-b1181871.html?formCode=MG0AV3
+https://www.standard.co.uk/news/london/tfl-cyber-attack-oyster-bank-cards-personal-details-transport-for-london-b1181871.html
 
 #### September 1, 2024 (TfL cyber attack)
-https://www.bbc.co.uk/news/articles/ceqn7xng7lpo?formCode=MG0AV3
+https://www.bbc.co.uk/news/articles/ceqn7xng7lpo
 
 
 
