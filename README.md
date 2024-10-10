@@ -202,6 +202,67 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 
 
 
+## 23andMe to pay $30 million in genetics data breach settlement
+#### September 13, 2024
+- https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/
+
+
+
+## False Claims of Hacked Voter Information Likely Intended to Sow Distrust of U.S. Elections
+#### September 13, 2024
+- https://www.cisa.gov/sites/default/files/2024-09/PSA_Just_So_You_Know_False_Claims_of_Hacking_Voter_Reg_CISA_and_FBI-508.pdf
+
+
+
+## Fortinet confirms breach that likely leaked 440GB of customer data
+#### September 13, 2024
+- https://www.csoonline.com/article/3520517/fortinet-confirms-a-breach-that-likely-leaked-440-gb-of-customer-data.html?formCode=MG0AV3
+#### September 12, 2024 (Notice of Recent Security Incident | Fortinet Blog)
+- https://www.fortinet.com/blog/business-and-technology/notice-of-recent-security-incident?formCode=MG0AV3
+
+
+
+## Meta fixes easily bypassed WhatsApp ‘View Once’ privacy feature
+#### September 9, 2024
+- https://www.bleepingcomputer.com/news/security/meta-fixes-easily-bypassed-whatsapp-view-once-privacy-feature/
+- https://techreport.com/news/meta-promises-fix-whatsapp-view-once-bug/?formCode=MG0AV3
+- https://restoreprivacy.com/whatsapp-flaw-allows-bypassing-the-view-once-media-privacy-feature/?formCode=MG0AV3
+- https://techcrunch.com/2024/09/09/bug-lets-anyone-bypass-whatsapps-view-once-privacy-feature/?formCode=MG0AV3
+ 
+
+
+## Payment provider data breach exposes credit card information of 1.7 million customers
+#### September 10, 2024
+- https://www.malwarebytes.com/blog/news/2024/09/payment-provider-data-breach-exposes-credit-card-information-of-1-7-million-customers
+
+
+
+
+## Chinese hackers are switching to new malware for government attacks
+#### September 11, 2024
+- https://www.techradar.com/pro/chinese-hackers-are-switching-to-new-malware-for-government-attacks?formCode=MG0AV3
+#### September 9, 2024 (Chinese hackers use new data theft malware in govt attacks)
+- https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-data-theft-malware-in-govt-attacks/
+
+
+
+
+## Man Faces 20 Years in Prison for First-Ever AI Music Streaming Scam
+#### September 10, 2024
+- https://hackread.com/man-faces-prison-first-ever-ai-music-streaming-scam/
+- https://www.ibtimes.com/ai-music-streamed-royalty-fraud-3742230
+- https://arstechnica.com/information-technology/2024/09/fbi-busts-musicians-elaborate-ai-powered-10m-streaming-royalty-heist/?formCode=MG0AV3
+
+
+
+
+
+## Transport for London doesn't know when it will recover from 'very sophisticated' cyber attack, admits tech chief
+#### September 13, 2024
+https://www.standard.co.uk/news/london/tfl-cyber-attack-oyster-bank-cards-personal-details-transport-for-london-b1181871.html?formCode=MG0AV3
+
+#### September 1, 2024 (TfL cyber attack)
+https://www.bbc.co.uk/news/articles/ceqn7xng7lpo?formCode=MG0AV3
 
 
 
@@ -215,6 +276,15 @@ August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
 
 
 
+
+
+
+
+
+-
+-
+-
+-
 
 
 
