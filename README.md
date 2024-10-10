@@ -179,16 +179,24 @@ This project investigates various cybersecurity forums to analyse the evolving t
 
 
 
-
-
 ## Millions of vehicle records left open – with no owner in sight
 #### September 17, 2024
 - https://cybernews.com/security/millions-vehicle-records-left-open/
 August 16, 2021 (Database Of 3 Million Lebanese Car Owners Is Being Sold Online)
-https://www.the961.com/3-million-lebanese-car-owners-database-online/?formCode=MG0AV3
+- https://www.the961.com/3-million-lebanese-car-owners-database-online/?formCode=MG0AV3
 
 
 
+
+## Are pirate streaming sites in the middle of a copyright crackdown
+#### September 16, 2024
+- https://cybernews.com/editorial/pirate-streaming-copyright-crackdown/
+#### March  13, 2024 (Online piracy crackdown results in four UK arrests)
+- https://www.independent.co.uk/tech/piracy-online-streaming-police-laws-b2292223.html?formCode=MG0AV3
+#### May 2 2022 (Every ISP in the US has been ordered to block three pirate streaming services)
+- https://arstechnica.com/tech-policy/2022/05/judge-rules-every-isp-in-us-must-block-pirate-sites-run-by-mysterious-defendants/?formCode=MG0AV3
+#### August 16 2021 (A crackdown on piracy and illegal streaming is coming)
+- https://www.techradar.com/news/a-crackdown-on-piracy-and-illegal-streaming-is-coming?formCode=MG0AV3
 
 
 
