@@ -22,7 +22,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 #### October 4 2024
 - https://www.engadget.com/cybersecurity/legos-website-was-hacked-to-promote-a-crypto-scam-140045757.html
 - https://www.newsweek.com/lego-website-hacked-crypto-scam-promoting-fake-lego-coin-1964779
-- 
+
 
 ## Bank of America customers see $0 balances amid nationwide outage 
 #### October 3 2024
