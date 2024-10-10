@@ -15,7 +15,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 4.	Relevance to Target Organizations: The identified techniques will be assessed for their impact on different types of organizations. This will include an analysis of how trends affect specific industries (e.g., phishing attacks in the financial sector vs. supply chain attacks in the manufacturing sector).
 
 
-# These are the noticeable trends in the last six weeks
+# These are the noticeable trends in the last four weeks
 
 
 ## Lego's website was hacked to promote a crypto scam
@@ -133,6 +133,7 @@ This project investigates various cybersecurity forums to analyse the evolving t
 #### September 25, 2024
 - https://hackread.com/wp-content/uploads/2024/09/dell-data-leak-in-week-amid-grep-cyberattacks-2-964x1024.jpg
 #### September 22, 2024 (Hackers Claim Second Dell Data Breach)
+- https://hackread.com/dell-hit-by-second-security-breach-in-week/
 #### May 10, 2024 (Dell Database Hacked)
 - https://www.forbes.com/sites/daveywinder/2024/05/10/dell-confirms-database-hacked-hacker-says-49-million-customers-hit/
 
