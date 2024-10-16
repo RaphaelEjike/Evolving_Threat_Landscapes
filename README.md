@@ -17,9 +17,27 @@ This project investigates various cybersecurity forums to analyse the evolving t
 
 # These are the disclosed incidents and trends in the last four weeks
 
+## Police Bust Major Online Scam Ring: 120 Chinese Nationals arrested in Kandy
+#### October 14 2024
+- https://lankasara.com/news/120-chinese-nationals-arrested-kandy
+- https://srilankamirror.com/news/22-women-among-130-chinese-arrested-in-kandy-cybercrime-raid
+- https://www.dailymirror.lk/breaking-news/22-women-among-130-Chinese-arrested-in-connection-with-a-massive-cyber-crime/108-293694
 
 
+## Game Freak’s “Teraleak” appears to expose nearly 1 terabyte of sensitive Pokémon data
+#### October 12 2024
+- https://hackread.com/teraleak-pokemon-developer-game-freak-hacked-data-leak/
+- https://www.nintendolife.com/news/2024/10/pokemon-developer-game-freak-reportedly-hacked-massive-amounts-of-data-allegedly-leaked
+- https://www.pcgamer.com/games/rpg/pokemon-dev-game-freak-appears-to-have-suffered-a-teraleak-that-includes-25-years-of-never-before-seen-pokemon-art-assets-documents-and-even-canceled-movies/
+- https://www.infosecurity-magazine.com/news/pokemon-developer-game-freak-data/
+- https://hackread.com/wp-content/uploads/2024/10/pokemon-developer-game-freak-hacked-decades-of-data-leaked-1-618x1024.jpg
 
+## Ecovacs confirms cyber attack on device
+#### October 10 2024
+- https://www.abc.net.au/news/2024-10-11/robot-vacuum-yells-racial-slurs-at-family-after-being-hacked/104445408
+- https://www.msn.com/en-in/money/news/robots-in-us-start-shouting-racial-slurs-at-consumers-after-hackers-make-the-device-malfunction/ar-AA1sePD7
+- https://www.vice.com/en/article/ecovacs-robot-vacuums-hacked-slurs
+- https://www.firstpost.com/tech/hackers-hijack-robot-vacuum-cleaners-hurl-racially-charged-slurs-in-bizarre-cyberattack-across-us-13825239.html
 
 ## Discord Blocked in Russia and Turkey
 #### October 10 2024
