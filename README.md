@@ -17,6 +17,48 @@ This project investigates various cybersecurity forums to analyse the evolving t
 
 # These are the disclosed incidents and trends in the last four weeks
 
+
+## Talos warns of Russian-speaking hackers attacking Ukrainian and Polish companies
+#### October 17 2024
+- https://cybernews.com/security/russian-speaking-hackers-attacking-ukraine-poland-talos/
+- https://blog.talosintelligence.com/uat-5647-romcom/?form=MG0AV3
+
+## Iranian Cyber Actors’ Brute Force and Credential Access Activity Compromises Critical Infrastructure Organizations
+#### October 16 2024
+- https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-290a
+
+## Android banking trojan stealing money: no antivirus software can detect it
+#### October 16 2024
+- https://www.makeuseof.com/new-android-banking-trojan-cerberus-errorfather
+- https://cybernews.com/security/android-banking-trojans-peak-stealing-money-undetected
+#### September 16 2024 The rise of Cerberus: Android banking malware is available for free in underground forums
+- https://www.kaspersky.com/about/press-releases/the-rise-of-cerberus
+
+## Sudanese Brothers Arrested in ‘AnonSudan’ Takedown
+#### October 16 2024
+- https://www.justice.gov/usao-cdca/pr/two-sudanese-nationals-indicted-alleged-role-anonymous-sudan-cyberattacks-hospitals
+- https://krebsonsecurity.com/2024/10/sudanese-brothers-arrested-in-anonsudan-takedown
+- https://arstechnica.com/information-technology/2024/10/us-prosecutors-take-down-operation-accused-of-35000-ddoses-over-14-months
+
+## Microsoft says tougher punishments needed for state-sponsored cybercriminals
+#### October 15 2024
+- https://www.theregister.com/2024/10/15/microsoft_digital_defense_report
+- https://blogs.microsoft.com/on-the-issues/2024/10/15/escalating-cyber-threats-demand-stronger-global-defense-and-cooperation
+
+## Finnish Customs closed down the Sipulitie marketplace
+#### October 15 2024
+- https://tulli.fi/en/-/finnish-customs-closed-down-the-sipulitie-marketplace-on-the-encrypted-tor-network
+- https://www.msn.com/en-us/news/technology/sipultie-online-drugs-market-servers-seized-by-finnish-authorities/ar-AA1sn8I5
+- https://www.techradar.com/pro/sipultie-online-drugs-market-servers-seized-by-finnish-authorities?form=MG0AV3
+
+
+## Intel Broker Claims Cisco Breach
+#### October 14 2024
+- https://hackread.com/intel-broker-cisco-data-breach-selling-firms-data/
+- https://www.theregister.com/2024/10/15/cisco_confirm_ongoing_investigation/
+- https://www.cyberdaily.au/security/11244-cisco-launches-investigation-into-intelbrokers-cyber-attack
+
+
 ## Police Bust Major Online Scam Ring: 120 Chinese Nationals arrested in Kandy
 #### October 14 2024
 - https://lankasara.com/news/120-chinese-nationals-arrested-kandy
