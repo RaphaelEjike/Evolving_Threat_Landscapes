@@ -15,7 +15,13 @@ This project investigates various cybersecurity forums to analyse the evolving t
 4.	Relevance to Target Organizations: The identified techniques will be assessed for their impact on different types of organizations. This will include an analysis of how trends affect specific industries (e.g., phishing attacks in the financial sector vs. supply chain attacks in the manufacturing sector).
 
 
-# These are the disclosed incidents and trends in the last four weeks
+# These are the disclosed incidents and trends in the last six weeks
+
+
+
+
+
+
 
 
 ## Talos warns of Russian-speaking hackers attacking Ukrainian and Polish companies
