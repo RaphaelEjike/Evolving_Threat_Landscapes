@@ -42,10 +42,36 @@ This project investigates various cybersecurity forums to analyse the evolving t
 - https://hackread.com/fake-meta-ads-hijacking-facebook-sys01-infostealer/
 - https://www.bitdefender.com/en-gb/blog/labs/unmasking-the-sys01-infostealer-threat-bitdefender-labs-tracks-global-malvertising-campaign-targeting-meta-business-pages
 
-#### 16 July 2024 (Fake Facebook ads for Windows desktop themes are actually sending out malware)
+#### July 16 2024 (Fake Facebook ads for Windows desktop themes are actually sending out malware)
 - https://www.techradar.com/pro/security/fake-facebook-ads-for-windows-desktop-themes-are-actually-sending-out-malware-heres-what-to-know
 #### March 9 2023 (Beware of Fake Facebook Profiles, Google Ads Pushing Sys01 Stealer)
 - https://hackread.com/fake-facebook-profiles-google-ads-sys01-stealer/
+
+
+## Free, France’s second largest ISP, confirms data breach after leak
+#### October 28 2024
+
+- https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/
+- https://www.msn.com/en-us/money/other/free-isp-announces-data-breach-millions-of-users-possibly-affected/ar-AA1t885u
+- https://www.itpro.com/security/cyber-attacks/hacker-claims-to-have-data-linked-to-19-million-french-mobile-and-internet-customers
+- https://www.techradar.com/pro/security/free-isp-announces-data-breach-millions-of-users-possibly-affected
+
+
+## Police operation claims takedown of prolific Redline and Meta password stealers
+#### October 28 2024
+
+- https://www.msn.com/en-us/news/technology/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/ar-AA1t4mhq?form=MG0AV3
+- https://www.itpro.com/security/malware/two-notorious-infostealer-malware-operations-were-just-knocked-offline
+- https://www.theregister.com/2024/10/28/dutch_cops_pwn_the_redline/
+- https://news.europawire.eu/international-coalition-shuts-down-global-malware-network-targeting-millions/eu-press-release/2024/10/30/10/37/59/143013
+
+
+
+
+
+
+
+
   
 
 
