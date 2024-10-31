@@ -19,9 +19,34 @@ This project investigates various cybersecurity forums to analyse the evolving t
 
 
 
+## Chinese attackers accessed Canadian government networks – for five years
+#### October 31 2024
+- https://www.theregister.com/2024/10/31/canada_cybersec_threats/
+- https://www.cyber.gc.ca/en/guidance/national-cyber-threat-assessment-2025-2026#fn117-rf
+- https://www.techradar.com/pro/security/chinese-hackers-had-access-to-canadian-government-systems-for-years
+- https://www.msn.com/en-us/news/world/chinese-attackers-accessed-canadian-government-networks-for-five-years/ar-AA1tf8ko
+- https://www.cbc.ca/news/politics/cse-cyber-threats-china-1.7367719
+- https://www.csagroup.org/article/five-take-aways-canadas-new-cybersecurity-strategy/
+
+## Microsoft warns of a new phishing campaign by Russia-linked APT Midnight Blizzard targeting hundreds of organizations.
+#### October 31 2024
+- https://www.msn.com/en-us/news/technology/microsoft-says-russian-hackers-have-launched-major-spear-phishing-attacks-against-us-government-officials/ar-AA1tcSKP
+- https://www.msn.com/en-us/news/technology/russian-spies-use-remote-desktop-protocol-files-in-unusual-mass-phishing-drive/ar-AA1tciwt
+- https://www.infosecurity-magazine.com/news/apt29-spearphishing-thousands-rdp/
+- https://www.csoonline.com/article/3595076/russian-hackers-target-us-officials-in-a-new-spear-phishing-campaign.html
+- https://www.techrepublic.com/article/midnight-blizzard-spearphishing-us-officials/
 
 
+## Fake Meta Ads Hijacking Facebook Accounts to Spread SYS01 Infostealer
+#### October 30 2024
+- https://hackread.com/fake-meta-ads-hijacking-facebook-sys01-infostealer/
+- https://www.bitdefender.com/en-gb/blog/labs/unmasking-the-sys01-infostealer-threat-bitdefender-labs-tracks-global-malvertising-campaign-targeting-meta-business-pages
 
+#### 16 July 2024 (Fake Facebook ads for Windows desktop themes are actually sending out malware)
+- https://www.techradar.com/pro/security/fake-facebook-ads-for-windows-desktop-themes-are-actually-sending-out-malware-heres-what-to-know
+#### March 9 2023 (Beware of Fake Facebook Profiles, Google Ads Pushing Sys01 Stealer)
+- https://hackread.com/fake-facebook-profiles-google-ads-sys01-stealer/
+  
 
 
 ## Talos warns of Russian-speaking hackers attacking Ukrainian and Polish companies
