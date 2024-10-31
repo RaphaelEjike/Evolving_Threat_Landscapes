@@ -60,19 +60,30 @@ This project investigates various cybersecurity forums to analyse the evolving t
 ## Police operation claims takedown of prolific Redline and Meta password stealers
 #### October 28 2024
 
-- https://www.msn.com/en-us/news/technology/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/ar-AA1t4mhq?form=MG0AV3
+- https://www.msn.com/en-us/news/technology/police-operation-claims-takedown-of-prolific-redline-and-meta-password-stealers/ar-AA1t4mhq
 - https://www.itpro.com/security/malware/two-notorious-infostealer-malware-operations-were-just-knocked-offline
 - https://www.theregister.com/2024/10/28/dutch_cops_pwn_the_redline/
 - https://news.europawire.eu/international-coalition-shuts-down-global-malware-network-targeting-millions/eu-press-release/2024/10/30/10/37/59/143013
 
+## Microsoft Report Highlights Attacks Against Healthcare Organizations
+#### October 24 2024
+- https://natlawreview.com/article/microsoft-report-highlights-attacks-against-healthcare-organizations
+- https://www.healthcarefinancenews.com/news/389-healthcare-companies-hit-ransomware-year-microsoft-finds
+- https://www.darkreading.com/cyberattacks-data-breaches/microsoft-healthcare-300-percent-surge-ransomware-attacks
+#### January 10 2023 (Global Healthcare Cyberattacks Increased by 74% in 2022)
+  - https://www.hipaajournal.com/global-healthcare-cyberattacks-increased-by-74-in-2022
+
+
+## Turkey restored access to social media platforms blocked following Ankara blast
+#### October 24 2024
+- https://www.techradar.com/pro/vpn/major-social-media-platforms-blocked-in-turkey-following-ankara-blast
+
+## Turkey blocks all social media access after deadly aerospace attack
+#### October 23 2024
+- https://cybernews.com/news/turkey-blocks-social-media-x-instagram-facebook-tiktok-aerospace-attack/
 
 
 
-
-
-
-
-  
 
 
 ## Talos warns of Russian-speaking hackers attacking Ukrainian and Polish companies
