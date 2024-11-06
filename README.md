@@ -70,8 +70,9 @@ Ransomware remains a major threat, with attackers increasingly targeting critica
 #### Recommendations:
 - Regularly back up systems and test the integrity of these backups.
 - Run ransomware response simulations to prepare employees and management for quick, coordinated action.
-
-
+ #### Reference
+- https://flashpoint.io/blog/the-anatomy-of-a-ransomware-attack
+- https://www.proofpoint.com/uk/blog/email-and-cloud-threats/eight-stages-of-the-ransomware-attack-chain
 
 #### 5. Zero Trust Architecture
 As traditional network perimeters fade, Zero Trust models are increasingly being adopted to reduce the risk of lateral movement within networks during a breach.
@@ -79,7 +80,9 @@ As traditional network perimeters fade, Zero Trust models are increasingly being
 - Identify critical assets and enforce strict access controls for these resources.
 - Regularly audit and update permissions to ensure employees have only the necessary level of access.
 
-
+ #### Reference
+- https://www.microsoft.com/en-us/security/business/security-101/what-is-zero-trust-architecture
+- https://www.nist.gov/publications/zero-trust-architecture
 
 #### 6. Outcome-Driven Cybersecurity Metrics
 As cybersecurity budgets grow, outcome-driven metrics help teams quantify and communicate the impact of their efforts. Linking security investments to business outcomes can also aid in prioritizing spending. After a breach, security can used outcome-based metrics to show how its investment in cybersecurity directly prevented revenue loss, helping secure additional budget for further improvements.
