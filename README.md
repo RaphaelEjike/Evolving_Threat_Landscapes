@@ -89,8 +89,10 @@ As cybersecurity budgets grow, outcome-driven metrics help teams quantify and co
 #### Recommendations:
 - Align cybersecurity metrics with business goals and communicate these to executives.
 - Track key metrics, such as incident response times, to measure the impact of security investments.
-
-
+ #### Reference
+ - https://www.gartner.com/en/documents/3980892
+ - https://truefort.com/cybersecurity-outcome-driven-metrics
+ - https://www.micromindercs.com/blog/the-shift-towards-outcome-driven-cyber-security-metrics
 
 #### 7. Third-Party and Supply Chain Risks
 As supply chains grow increasingly interconnected, attackers often target third-party vendors with weaker security. Energy providers rely on an array of suppliers, making them vulnerable to third-party risks.
