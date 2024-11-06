@@ -100,6 +100,9 @@ As supply chains grow increasingly interconnected, attackers often target third-
 - Conduct regular third-party risk assessments and require vendors to adhere to security best practices.
 - Implement monitoring solutions to track any suspicious third-party access.
 
+#### Reference
+- https://panorays.com/blog/managing-third-party-risks-global-supply-chain/
+- https://blog.riskimmune.com/supply-chain-risk-management-vs-third-party-risk-management-understanding-the-differences/
 
 
 #### 8. Regulatory Landscape Shifts
