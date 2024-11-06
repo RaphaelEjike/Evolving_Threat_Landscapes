@@ -39,6 +39,7 @@ Generative AI is revolutionizing threat detection and response. It’s enabling 
 #### Recommendations:
 -	Implement multi-layered defences that go beyond traditional email filters.
 -	Regularly train employees to recognize more sophisticated phishing techniques, especially those that appear highly personalized.
+  #### Reference
 - https://www.paloaltonetworks.com/cyberpedia/generative-ai-in-cybersecurity
 - https://www.govtech.com/security/how-will-generative-ai-change-cybersecurity-teams
 - https://www.jdsupra.com/legalnews/navigating-the-future-of-cybersecurity-5720071/
