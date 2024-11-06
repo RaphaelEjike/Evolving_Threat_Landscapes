@@ -49,8 +49,11 @@ With the normalisation of remote work, attackers are increasingly targeting home
 #### Recommendations:
 - Enforce VPN use and endpoint security tools for remote workers.
 - Educate employees on securing home networks, including Wi-Fi encryption and updating devices.
-
-
+#### Reference
+- https://insights.sei.cmu.edu/blog/remote-work-vulnerabilities-and-threats-to-the-enterprise
+- https://www.netmaker.io/resources/remote-workforce-security
+- https://www.deloitte.com/uk/en/services/risk-advisory/perspectives/managing-the-digital-risks-of-a-remote-workforce.html
+- https://www.lookout.com/blog/remote-work-security-risks
 
 #### 3. AI-Powered Social Engineering
 AI is allowing attackers to conduct more sophisticated social engineering attacks. Deepfake audio and video, in particular, make it easier for threat actors to impersonate executives and other high-ranking officials. An Attacker can use deepfake audio to impersonate the CEO of a company, to instruct a finance department employee to approve a fraudulent fund transfer.
