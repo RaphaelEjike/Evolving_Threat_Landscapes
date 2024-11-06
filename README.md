@@ -60,7 +60,9 @@ AI is allowing attackers to conduct more sophisticated social engineering attack
 #### Recommendations:
 - Require multi-step verification for any high-stakes financial or operational requests.
 - Train employees to recognize indicators of deepfake audio or video, such as inconsistencies in speech.
-
+  #### Reference
+- https://www.weforum.org/stories/2024/10/ai-agents-in-cybersecurity-the-augmented-risks-we-all-need-to-know-about
+- https://www.forbes.com/councils/forbestechcouncil/2023/05/26/how-ai-is-changing-social-engineering-forever
 
 
 #### 4. Ransomware Escalation
