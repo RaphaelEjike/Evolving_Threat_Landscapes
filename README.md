@@ -16,7 +16,7 @@ This project investigates various cybersecurity websites and forums to analyse t
 
 ### Examing TTPs with MITRE ATT&CK
 
-After identifying emerging trends and threats from these forums, MITRE ATT&CK is employed to examine the techniques, tactics, and procedures (TTPs) used by adversaries. The research focuses on specific adversary behaviours and attack vectors impacting organizations of various sizes, from mid-sized businesses to Fortune 500 companies. The project outlines both technical and procedural mitigations, with particular emphasis on defending against phishing, supply chain attacks, and other high-risk threat
+After identifying emerging trends and threats from these forums, MITRE ATT&CK is employed to examine the techniques, tactics, and procedures (TTPs) used by adversaries. The research focuses on specific adversary behaviours and attack vectors impacting organizations of various sizes, from mid-sized businesses to Fortune 500 companies. The project outlines both technical and procedural mitigations, with particular emphasis on defending against phishing, supply chain attacks, and other high-risk threat. (https://github.com/RaphaelEjike/MITRE_ATT-CK)
 
 
 ### Top trends to monitor in 2024
