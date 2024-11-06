@@ -110,6 +110,10 @@ With evolving data privacy laws, organisations must regularly update their secur
 #### Recommendations:
 - Stay informed of changes in data privacy laws and adjust security policies accordingly.
 - Regularly audit data practices to ensure compliance with all applicable regulations.
+ #### Reference
+ - https://www.osborneclarke.com/insights/Regulatory-Outlook-October-2024-data-law
+ - https://www.freshfields.com/en-gb/our-thinking/campaigns/2025-data-law-trends/
+ - https://www.captaincompliance.com/education/2025-shift-in-uk-gdpr-understanding-recognized-legitimate-interests-and-their-impact-on-data-privacy/
 
 ### Conclusion
 These trends highlight the need for cybersecurity professionals to adopt a proactive, layered approach to safeguarding their organizations. By focusing on the unique challenges posed by each of these trends, teams can better anticipate new tactics from adversaries and mitigate risks more effectively. Staying informed and prepared is key to navigating an ever-evolving threat landscape.
