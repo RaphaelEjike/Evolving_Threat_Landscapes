@@ -35,10 +35,10 @@ As the threat landscape continues to evolve, staying on top of emerging trends i
 
 
 #### 1. Generative AI (GenAI) in Cybersecurity
-Generative AI is revolutionizing threat detection and response. It’s enabling rapid analysis and response automation, but attackers are also leveraging it for highly personalized phishing campaigns and complex malware. Attackers used AI to craft emails that appeared to come from known contacts, bypassing traditional filters due to their accuracy.
+Generative AI is revolutionising threat detection and response. It’s enabling rapid analysis and response automation, but attackers are also leveraging it for highly personalised phishing campaigns and complex malware. Attackers used AI to craft emails that appeared to come from known contacts, bypassing traditional filters due to their accuracy.
 #### Recommendations:
 -	Implement multi-layered defences that go beyond traditional email filters.
--	Regularly train employees to recognize more sophisticated phishing techniques, especially those that appear highly personalized.
+-	Regularly train employees to recognise more sophisticated phishing techniques, especially those that appear highly personalised.
   #### Reference
 - https://www.paloaltonetworks.com/cyberpedia/generative-ai-in-cybersecurity
 - https://secureframe.com/blog/generative-ai-cybersecurity
