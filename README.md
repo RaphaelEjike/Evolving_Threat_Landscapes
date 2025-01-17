@@ -1,5 +1,5 @@
 # Evolving Threat Landscapes
-This project investigates various cybersecurity websites and forums to analyse the evolving threat landscape. The forums explored include publicly accessible platforms, dark web markets, and industry-specific forums where threat actors and security professionals discuss vulnerabilities, attack methods, and defensive strategies. 
+This project investigates various cybersecurity websites and forums to analyse the evolving threat landscape. The forums explored include publicly accessible platforms, dark web markets, and industry-specific forums where threat actors and security professionals discuss vulnerabilities, attack methods, and defensive strategies.
 
 
 ### Types of Cybersecurity Forums:
